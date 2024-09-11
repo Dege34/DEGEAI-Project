@@ -1,12 +1,16 @@
-#  ![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.png?raw=true) DEGEAI-Project v1.1
+#  <p align="center"><img width="150" img height="150" alt="app exe icon" src="https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.png?raw=true"> <br> <br>**DEGEAI-Project v1.1** </p>
+<br>
 
-
-<h2>DEGEAI Application with Real-Time Data Integration, Machine Learning, and Face Tracking (v1.1)</h2>
-
-This repository hosts version 1.1 of an AI application that combines real-time data processing, machine learning (ML) capabilities, and a face tracking and swapping system, all designed to operate independently without relying on third-party APIs. The application aims to provide a versatile foundation for developing modern AI-driven solutions across various domains.
-
-
+This DEGEAI is the open-source version of the latest, hosts version 1.1 of an AI application that combines real-time data processing, machine learning (ML) capabilities, and a face tracking and swapping system, all designed to operate independently without relying on third-party APIs. The application aims to provide a versatile foundation for developing modern AI-driven solutions across various domains.
+<br>
+<br>
+<br>
 ![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.gif?raw=true)
+
+## Update
+
+- 🔥 **Update 1**: ```2024/09/12```: More stable and solved some bug.
+
 
 
 <h2>Features</h2>
@@ -19,7 +23,8 @@ Face Tracking and Swapping System: A face tracking and swapping module has been 
 Modular Architecture with Scalability: The application is built with a modular architecture that allows for easy updates and expansions. The codebase is organized to support the integration of additional features, such as more advanced ML models, improved data handling, or enhanced face tracking algorithms.
 
 No Dependence on Third-Party APIs: Unlike many AI applications that rely heavily on external APIs, this application is built to function independently, which enhances flexibility, data privacy, and security.
-
+<br>
+<br>
 <h2>Current Status - Version 1.0</h2>
 Version 1.1 represents the initial release, with a focus on establishing a solid and flexible foundation for future development. While the core functionality is in place, there are areas that need further refinement and optimization:
 
@@ -38,7 +43,8 @@ Technical Stack
 Languages: Python, JavaScript, SQL.
 Libraries and Frameworks: OpenCV for computer vision, TensorFlow and PyTorch for ML models, Node.js and Express.js for backend services, and SQL for data management.
 Data Handling: Custom web scraping scripts and SQL databases for structured data management and integration with ML models.
-
+<br>
+<br>
 <h2>Installation and Usage</h2>
 
 <h3>Clone the Repository:</h3>
@@ -54,7 +60,8 @@ bash</h3>
 Run the Application: Set up the backend and frontend as described in the README.md file, and configure the environment for data scraping and ML processing.
 Contribution
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request or open an issue. Please follow the project's code of conduct when contributing.
-
+<br>
+<br>
 <h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
@@ -64,5 +71,13 @@ Dynamic Data Source Management: Expand support for adding new data sources dynam
 Enhanced UI/UX: Continuously improve the user interface to be more modern, user-friendly, and responsive.
 Community Feedback Integration: Gather and incorporate feedback from the community to prioritize updates and new features.
 
+<br>
+<br>
 <h2>Contact</h2>
-For any questions, suggestions, or collaboration opportunities, please contact <h4>dege.bulte@studenti.polito.it</h4>.
+For any questions, suggestions, or collaboration opportunities, please contact dege.bulte@studenti.polito.it</a>.<br>
+Also:  <p align="center"><br>-Mail: <a href = "dege.bulte@studenti.polito.it">dege.bulte@studenti.polito.it</a>               
+        <br>-Linkledin :  <a href = "www.linkedin.com/in/dogan-ege-bulte-2b212b200">www.linkedin.com/in/dogan-ege-bulte-2b212b200</a>
+        <br>-Website : <a href = "www.thedege.com">www.thedege.com</a></p>
+                        
+
+
