@@ -1,10 +1,10 @@
 # DEGEAI-Project v1.1
 
-<h1>DEGEAI Application with Real-Time Data Integration, Machine Learning, and Face Tracking (v1.1)</h1>
+<h2>DEGEAI Application with Real-Time Data Integration, Machine Learning, and Face Tracking (v1.1)</h2>
 
 This repository hosts version 1.1 of an AI application that combines real-time data processing, machine learning (ML) capabilities, and a face tracking and swapping system, all designed to operate independently without relying on third-party APIs. The application aims to provide a versatile foundation for developing modern AI-driven solutions across various domains.
 
-<h1>Features<</h1>
+<h2>Features</h2>
 Real-Time Data Integration: The application collects and processes real-time data from various internet sources without relying on external APIs, ensuring greater control over data flow and enhancing privacy. It utilizes custom web scraping techniques and data parsing methods to keep information up-to-date and relevant.
 
 Machine Learning Models: The application integrates several machine learning models using Python, JavaScript, and SQL for backend processing and data management. These models are capable of handling tasks such as data classification, regression analysis, and simple predictive analytics, providing a versatile foundation for building more complex models in the future.
@@ -15,7 +15,7 @@ Modular Architecture with Scalability: The application is built with a modular a
 
 No Dependence on Third-Party APIs: Unlike many AI applications that rely heavily on external APIs, this application is built to function independently, which enhances flexibility, data privacy, and security.
 
-<h1>Current Status - Version 1.0</h1>
+<h2>Current Status - Version 1.0</h2>
 Version 1.1 represents the initial release, with a focus on establishing a solid and flexible foundation for future development. While the core functionality is in place, there are areas that need further refinement and optimization:
 
 <h2>Known Limitations:</h2>
@@ -34,29 +34,29 @@ Languages: Python, JavaScript, SQL.
 Libraries and Frameworks: OpenCV for computer vision, TensorFlow and PyTorch for ML models, Node.js and Express.js for backend services, and SQL for data management.
 Data Handling: Custom web scraping scripts and SQL databases for structured data management and integration with ML models.
 
-<h1>Installation and Usage</h1>
+<h2>Installation and Usage</h2>
 
-<h2>Clone the Repository:</h2>
-        <h3>git clone https://github.com/username/repository-name.git</h3>
+<h3>Clone the Repository:</h3>
+        <h4>git clone https://github.com/username/repository-name.git</h4>
         
-<h2>Install Dependencies: Install necessary dependencies using requirements.txt for Python and package.json for JavaScript.
-bash<h2>
+<h3>Install Dependencies: Install necessary dependencies using requirements.txt for Python and package.json for JavaScript.
+bash</h3>
 
-        <h3> pip install -r requirements.txt </h3>
-        <h3> npm install </h3>
+        <h4> pip install -r requirements.txt </h4>
+        <h4> npm install </h4>
         
 Run the Application: Set up the backend and frontend as described in the README.md file, and configure the environment for data scraping and ML processing.
 Contribution
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request or open an issue. Please follow the project's code of conduct when contributing.
 
-<h1>License</h1>
+<h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
-Future Roadmap
+<h2>Future Roadmap</h2>
 Optimization and Expansion of ML Models: Incorporate more advanced ML models and improve the accuracy and speed of existing algorithms.
 Dynamic Data Source Management: Expand support for adding new data sources dynamically and improving error handling for real-time data integration.
 Enhanced UI/UX: Continuously improve the user interface to be more modern, user-friendly, and responsive.
 Community Feedback Integration: Gather and incorporate feedback from the community to prioritize updates and new features.
 
-<h1>Contact</h1>
-For any questions, suggestions, or collaboration opportunities, please contact <a>dege.bulte@studenti.polito.it</a>.
+<h2>Contact</h2>
+For any questions, suggestions, or collaboration opportunities, please contact <h3>dege.bulte@studenti.polito.it</h3>.
