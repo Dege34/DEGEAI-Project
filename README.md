@@ -37,10 +37,8 @@ Data Handling: Custom web scraping scripts and SQL databases for structured data
 <h2>Installation and Usage</h2>
 
 <h3>Clone the Repository:</h3>
-        ```
-            git clone https://github.com/Dege34/DEGEAI-Project.git    
-        ```
 
+        `git clone https://github.com/Dege34/DEGEAI-Project.git `
         
 <h3>Install Dependencies: Install necessary dependencies using requirements.txt for Python and package.json for JavaScript.
 bash</h3>
