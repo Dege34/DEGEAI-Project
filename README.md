@@ -1,9 +1,13 @@
-# DEGEAI-Project v1.1
-![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.gif?raw=true)
+#  ![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.png?raw=true) DEGEAI-Project v1.1
+
 
 <h2>DEGEAI Application with Real-Time Data Integration, Machine Learning, and Face Tracking (v1.1)</h2>
 
 This repository hosts version 1.1 of an AI application that combines real-time data processing, machine learning (ML) capabilities, and a face tracking and swapping system, all designed to operate independently without relying on third-party APIs. The application aims to provide a versatile foundation for developing modern AI-driven solutions across various domains.
+
+
+![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.gif?raw=true)
+
 
 <h2>Features</h2>
 Real-Time Data Integration: The application collects and processes real-time data from various internet sources without relying on external APIs, ensuring greater control over data flow and enhancing privacy. It utilizes custom web scraping techniques and data parsing methods to keep information up-to-date and relevant.
