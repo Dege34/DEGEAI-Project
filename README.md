@@ -37,7 +37,10 @@ Data Handling: Custom web scraping scripts and SQL databases for structured data
 <h2>Installation and Usage</h2>
 
 <h3>Clone the Repository:</h3>
-        <h4>git clone https://github.com/username/repository-name.git</h4>
+        ```
+            git clone https://github.com/Dege34/DEGEAI-Project.git    
+        ```
+
         
 <h3>Install Dependencies: Install necessary dependencies using requirements.txt for Python and package.json for JavaScript.
 bash</h3>
@@ -59,4 +62,4 @@ Enhanced UI/UX: Continuously improve the user interface to be more modern, user-
 Community Feedback Integration: Gather and incorporate feedback from the community to prioritize updates and new features.
 
 <h2>Contact</h2>
-For any questions, suggestions, or collaboration opportunities, please contact <h3>dege.bulte@studenti.polito.it</h3>.
+For any questions, suggestions, or collaboration opportunities, please contact <h4>dege.bulte@studenti.polito.it</h4>.
