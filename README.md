@@ -38,13 +38,13 @@ Data Handling: Custom web scraping scripts and SQL databases for structured data
 
 <h3>Clone the Repository:</h3>
 
-        ```git clone https://github.com/Dege34/DEGEAI-Project.git ```
+        git clone https://github.com/Dege34/DEGEAI-Project.git 
         
 <h3>Install Dependencies: Install necessary dependencies using requirements.txt for Python and package.json for JavaScript.
 bash</h3>
 
-        <h4> pip install -r requirements.txt </h4>
-        <h4> npm install </h4>
+         pip install -r requirements.txt 
+         npm install 
         
 Run the Application: Set up the backend and frontend as described in the README.md file, and configure the environment for data scraping and ML processing.
 Contribution
