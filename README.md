@@ -1,4 +1,5 @@
 # DEGEAI-Project v1.1
+![](https://github.com/Dege34/DEGEAI-Project/blob/main/asset/images/degeai%20app.gif?raw=true)
 
 <h2>DEGEAI Application with Real-Time Data Integration, Machine Learning, and Face Tracking (v1.1)</h2>
 
